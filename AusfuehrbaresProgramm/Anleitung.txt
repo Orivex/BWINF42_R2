@@ -1,0 +1,8 @@
+(Java muss installiert sein)
+
+Doppelklick auf das Programm
+
+ODER
+
+DieSiedler.jar Datei im Terminal öffnen und das eingeben:
+java -jar DieSiedler.jar
